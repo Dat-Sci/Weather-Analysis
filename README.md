@@ -3,7 +3,7 @@ A time series analysis of temperature variations across two consecutive years.
  * Maximum and minimum daily temperatures against months for each day in the year between the years 2005 and 2014, with the exceeding values of the year 2015.
 
 
-**overview** /n
+**overview**  
 The focus is on understanding whether temperature extremes changed significantly and what this might indicate about local climate variation.
 
 
