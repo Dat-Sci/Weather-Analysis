@@ -1,5 +1,5 @@
 Weather Trends: Comparing Daily Max & Min Temperatures (2005-2014 vs 2015)
-A time series analysis of temperature variations across two consecutive years.
+A time series analysis of temperature variations in Ann Arbor Michigan.
  * Maximum and minimum daily temperatures against months for each day in the year between the years 2005 and 2014, with the exceeding values of the year 2015 for the area Ann Arbor Michigan.
 
 
@@ -9,6 +9,7 @@ The focus is on understanding whether temperature extremes changed significantly
 
 **Data Set**  
 Source: https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network-daily
+The dataset consists of the variables above for multiple stations identified in that geographical area.
 Features and cleaning are described in the file in a coherent way.
 
 
