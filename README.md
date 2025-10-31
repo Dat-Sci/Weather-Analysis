@@ -28,7 +28,6 @@ The dataset contains multiple weather station records from the region. Data clea
 ## ⚙️ Data Preparation & Processing
 
 - Loaded and merged multiple station data for Ann Arbor  
-- Filtered to include only relevant variables (TMAX, TMIN)  
 - Grouped data by **day of the year** to produce average daily temperature patterns  
 - Created a separate subset for **2015** to compare with the baseline decade  
 - Prepared the data for time-based visualization using `pandas`
