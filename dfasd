@@ -1,0 +1,23 @@
+[33mcommit 0f4f6432d15fbfb044de4ed5a2d7ef94b95933df[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Aqeel Mohammed <aqeel.2006mohammed@gmail.com>
+Date:   Thu Oct 23 23:08:04 2025 +0100
+
+    Added the README file
+
+[33mcommit a9520ced8e92b5d42366d7144f6cb3d22701fa01[m
+Author: Aqeel Mohammed <aqeel.2006mohammed@gmail.com>
+Date:   Thu Oct 23 22:56:13 2025 +0100
+
+    fixed updating values issue
+
+[33mcommit 6db0a6f188f791c21138150d498e2157e39bf074[m
+Author: Aqeel Mohammed <aqeel.2006mohammed@gmail.com>
+Date:   Thu Oct 23 22:49:32 2025 +0100
+
+    Weather data analysis process Notebook, commented and explained
+
+[33mcommit 9bea4563c8aac3a97e27345fe4b5085d7e17de29[m
+Author: Aqeel Mohammed <aqeel.2006mohammed@gmail.com>
+Date:   Thu Oct 23 22:19:32 2025 +0100
+
+    initialized
